@@ -2,7 +2,6 @@ background-color: #d1a11d;
 
 body {font-family:Lucida, serif;
 font-size: 1em ;
-
 }
 
 h1 {font-family:Lucida, serif;
@@ -13,21 +12,31 @@ font-size: 1.5em ;
 tab { margin-left: 40px; 
 }
 
-
-
 footer { font-size: 50%;
 }
 #chapter1 {
 	background-image: url("the_cyclone.jpg");
+	font-family:Lucida, serif;
 	color: #ffffff
+}
+
+#stroke { font-family:Lucida, serif;
+	color: #ffffff;
+	-webkit-text-stroke: 1px black;
 }
 
 #chapter2 {
 	background-image: url("council.jpg");
+	font-family:Lucida, serif;
+	color: #ffffff;
+	-webkit-text-stroke: 1px black;
 }
 
 #chapter3 {
 	background-image: url("scarecrow.jpg");
+	font-family:Lucida, serif;
+	color: #ffffff;
+	-webkit-text-stroke: 1px black;
 }
 
 #topmenu {
