@@ -18,11 +18,13 @@ footer { font-size: 50%;
 	font-family:Lucida, serif;
 	font-size: 1.25em;
 	color: #ffffff
+	-webkit-text-stroke: .25px black;
 }
 
 #stroke { font-family:Lucida, serif;
 	color: #ffffff;
 	-webkit-text-stroke: 1px black;
+	-webkit-text-stroke: .25px black;
 }
 
 #chapter2 {
@@ -30,6 +32,7 @@ footer { font-size: 50%;
 	font-family:Lucida, serif;
 	font-size: 1.25em;
 	color: #ffffff;
+	-webkit-text-stroke: .25px black;
 }
 
 #chapter3 {
