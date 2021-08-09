@@ -16,7 +16,7 @@ footer { font-size: 50%;
 #chapter1 {
 	background-image: url("the_cyclone.jpg");
 	font-family:Lucida, serif;
-	font-size: 1.25em;
+	font-size: 1.5em;
 	color: #ffffff
 	-webkit-text-stroke: .25px black;
 }
@@ -38,7 +38,7 @@ footer { font-size: 50%;
 #chapter3 {
 	background-image: url("scarecrow.jpg");
 	font-family:Lucida, serif;
-	font-size: 1.25em;
+	font-size: 1.5em;
 	color: #ffffff;
 	-webkit-text-stroke: .25px black;
 }
