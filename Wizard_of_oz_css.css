@@ -18,7 +18,6 @@ footer { font-size: 50%;
 	font-family:Lucida, serif;
 	font-size: 1.5em;
 	color: #000000;
-	-webkit-text-stroke: .05px white;
 }
 
 #stroke { font-family:Lucida, serif;
@@ -30,17 +29,15 @@ footer { font-size: 50%;
 #chapter2 {
 	background-image: url("council.jpg");
 	font-family:Lucida, serif;
-	font-size: 1.75em;
-	color: #ffffff;
-	-webkit-text-stroke: .75px black;
+	font-size: 1.5em;
+	color: #000000;
 }
 
 #chapter3 {
 	background-image: url("scarecrow.jpg");
 	font-family:Lucida, serif;
-	font-size: 1.75em;
-	color: #ffffff;
-	-webkit-text-stroke: .75px black;
+	font-size: 1.5em;
+	color: #000000;
 }
 
 #topmenu {
