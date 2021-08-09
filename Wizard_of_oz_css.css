@@ -18,7 +18,7 @@ footer { font-size: 50%;
 	font-family:Lucida, serif;
 	font-size: 1.5em;
 	color: #000000;
-	-webkit-text-stroke: .25px white;
+	-webkit-text-stroke: .05px white;
 }
 
 #stroke { font-family:Lucida, serif;
