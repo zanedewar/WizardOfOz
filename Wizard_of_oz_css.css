@@ -38,11 +38,11 @@ footer { font-size: 50%;
 }
 
 #topmenu {
-background: #f1f1f1;
+background: #ffffff;
 padding: 10px 20px;
 border-bottom: 1px solid #e1e1e1;
 border-top: 1px solid #e1e1e1;
 }
 #topmenu ul { margin: 0; padding: 0; list-style-type: none;}
-#topmenu li { display: inline; padding: 0 23px 0 23px }
+#topmenu li { display: inline; padding: 0 20px 0 20px }
 #topmenu li a { text-decoration: none; }
