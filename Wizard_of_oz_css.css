@@ -12,6 +12,7 @@ tab { margin-left: 40px;
 
 footer { font-size: 50%;
 }
+
 #chapter1 {
 	background-image: url("the_cyclone.jpg");
 	font-family:Lucida, serif;
@@ -38,7 +39,7 @@ footer { font-size: 50%;
 }
 
 #topmenu {
-background: #ffffff;
+background: #000000;
 padding: 10px 20px;
 border-bottom: 1px solid #e1e1e1;
 border-top: 1px solid #e1e1e1;
@@ -46,13 +47,3 @@ border-top: 1px solid #e1e1e1;
 #topmenu ul { margin: 0; padding: 0; list-style-type: none;}
 #topmenu li { display: inline; padding: 0 20px 0 20px }
 #topmenu li a { text-decoration: none; }
-
-#topmenu1 {
-background: #ffffff;
-padding: 10px 20px;
-border-bottom: 1px solid #e1e1e1;
-border-top: 1px solid #e1e1e1;
-}
-#topmenu1 ul { margin: 0; padding: 0; list-style-type: none;}
-#topmenu1 li { display: inline; padding: 0 20px 0 20px }
-#topmenu1 li a { text-decoration: none; }
