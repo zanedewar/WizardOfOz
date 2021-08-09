@@ -17,7 +17,7 @@ footer { font-size: 50%;
 	background-image: url("the_cyclone.jpg");
 	font-family:Lucida, serif;
 	font-size: 1.5em;
-	color: #ffffff
+	color: #ffffff;
 	-webkit-text-stroke: .25px black;
 }
 
